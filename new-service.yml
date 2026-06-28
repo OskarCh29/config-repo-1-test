@@ -1,0 +1,4 @@
+service:
+  name: New Service
+
+message: Order configuration from Repo 1
