@@ -1,0 +1,8 @@
+company:
+  name: Config Repository 1
+common:
+  version: 1.0
+  author: Oskar
+message: Common message from Repo 1
+database:
+  port: 5432

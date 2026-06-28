@@ -1,0 +1,10 @@
+message: Demo DEV configuration from Repo 1
+
+database:
+  host: localhost-dev
+  username: dev_user
+  password: dev_password
+
+feature:
+  logging: true
+  cache: true
