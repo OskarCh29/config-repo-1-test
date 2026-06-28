@@ -1,0 +1,4 @@
+service:
+  name: Offline service
+
+message: Offline configuration from Repo 1
